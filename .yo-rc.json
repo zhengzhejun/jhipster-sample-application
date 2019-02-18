@@ -1,0 +1,41 @@
+{
+  "generator-jhipster": {
+    "applicationType": "monolith",
+    "gitCompany": "",
+    "baseName": "jhipsterSampleApplication",
+    "packageName": "io.github.kettlecode.jhiphstersample",
+    "packageFolder": "io/github/kettlecode/jhiphstersample",
+    "serverPort": 8080,
+    "serviceDiscoveryType": false,
+    "authenticationType": "jwt",
+    "uaaBaseName": "../uaa",
+    "cacheProvider": "no",
+    "enableHibernateCache": false,
+    "websocket": false,
+    "databaseType": "sql",
+    "devDatabaseType": "mysql",
+    "prodDatabaseType": "mysql",
+    "searchEngine": false,
+    "enableSwaggerCodegen": false,
+    "messageBroker": false,
+    "buildTool": "maven",
+    "useSass": false,
+    "clientPackageManager": "npm",
+    "testFrameworks": [],
+    "enableTranslation": false,
+    "nativeLanguage": "en",
+    "languages": [
+      "en"
+    ],
+    "clientFramework": "angularX",
+    "jhiPrefix": "jhi",
+    "jhipsterVersion": "5.8.1",
+    "jwtSecretKey": "N2UxMzBmYjRjZDdmY2IzNDMwZGNjOTk0NzE2ODVjZDM0Njg4NzYyZWJkZDY4YmJhMDM2MGZiMWQzZDk3MzU0NzlhMWI4ODhlMmJjNjkyN2VkNmIwNTlkNmE1NGJmMmVkNjZkNTJkYzk5ODY3MzViZGM3OTQ2OTFmOTc3OTIzNzk=",
+    "entitySuffix": "",
+    "dtoSuffix": "DTO",
+    "otherModules": []
+  },
+  "git-provider": "GitHub",
+  "git-company": "zhengzhejun",
+  "repository-name": "jhipster-sample-application"
+}
